@@ -1,0 +1,41 @@
+1) Java é uma linguagem de programação versátil e orientada a objetos, conhecida por sua portabilidade, segurança e ampla aplicação em desenvolvimento de software, incluindo aplicações web, empresariais e móveis.
+
+2) A plataforma Java é um ambiente de execução que inclui a linguagem Java, a máquina virtual (JVM) e bibliotecas, permitindo a portabilidade e execução de programas em diferentes sistemas operacionais.
+
+3) Java é uma linguagem de programação versátil, orientada a objetos, conhecida pela portabilidade e execução em diferentes plataformas usando a máquina virtual Java (JVM).
+
+4) Java é uma linguagem de programação versátil e orientada a objetos, conhecida por sua portabilidade, segurança e ampla aplicação em desenvolvimento de software, incluindo aplicações web, empresariais e móveis.
+
+5) Um editor de texto é uma aplicação para criar e modificar arquivos de texto. Exemplos incluem Notepad (Windows), TextEdit (Mac), e VS Code.
+
+6) IDE, é uma ferramenta que combina editor de código, compilador, depurador e outras funcionalidades para facilitar o desenvolvimento de software. Exemplos incluem Eclipse, IntelliJ IDEA e Visual Studio.
+
+7) Eclipse, IntelliJ IDEA, NetBeans, JDeveloper, BlueJ.
+
+8) A sigla JVM significa "Java Virtual Machine"
+
+9) A JVM é uma máquina virtual que executa programas Java. Ela interpreta o bytecode Java, gerenciando memória, coleta de lixo e garantindo a portabilidade dos programas entre diferentes sistemas operacionais.
+
+10) Projeto refere-se a um conjunto organizado de arquivos, pastas e recursos que compõem um software específico. Um projeto pode incluir o código-fonte, bibliotecas, arquivos de configuração, imagens e outros elementos necessários para o desenvolvimento de uma aplicação ou sistema de software
+
+11) Pacote é uma maneira de organizar e estruturar classes e interfaces relacionadas. Ele agrupa esses elementos em um namespace específico, fornecendo uma hierarquia lógica e evitando conflitos de nomes. Um pacote é uma coleção de classes e interfaces que estão relacionadas entre si.
+
+12) Classe é um bloco de código que encapsula dados e comportamentos relacionados. Ela é um dos conceitos fundamentais da programação orientada a objetos. As classes servem como modelos para criar objetos, que são instâncias dessas classes.
+
+13)  Desenvolvimento de Aplicações Empresariais, Desenvolvimento Web, Aplicações Móveis Android, Desenvolvimento de Jogos, Sistemas Embarcados.
+
+14) Case Sensitity significa que caracteres em caixa alta e em caixa baixa são tratados de modo diferente.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
